@@ -1,0 +1,154 @@
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Category.resources
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Company.resources
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Item.resources
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockIn.resources
+E:\Rayhan\BITM\Project_1\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockOut.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Category.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Company.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Item.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.SearchViewItemsSummary.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockIn.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.StockOut.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.ViewSalesBetweenTwoDates.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Login.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.MainForm.resources
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\bin\Debug\Shop.mdf
+E:\BITM dot net\StockManagementSystem\StockManagementSystem\bin\Debug\Shop_log.ldf
+E:\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CategoryUI.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.MainFormUI.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ItemUI.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Login.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.SearchViewItemsSummaryUI.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockInUI.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockOutUI.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ViewSalesBetweenTwoDatesUI.resources
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CompanyUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CategoryUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CompanyUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ItemUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Login.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.MainFormUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.SearchViewItemsSummaryUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockInUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockOutUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ViewSalesBetweenTwoDatesUI.resources
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\bin\Debug\Shop.mdf
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\bin\Debug\Shop_log.ldf
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\BITM dot net\Project\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+G:\Project\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+G:\Project\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+G:\Project\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CategoryUi.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CompanyUI.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ItemUI.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Login.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.MainFormUI.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.SearchViewItemsSummaryUI.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockInUI.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockOutUI.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ViewSalesBetweenTwoDatesUI.resources
+G:\Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CategoryUi.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CompanyUI.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ItemUI.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Login.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.MainFormUI.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.SearchViewItemsSummaryUI.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockInUI.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockOutUI.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ViewSalesBetweenTwoDatesUI.resources
+E:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CategoryUi.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CompanyUI.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ItemUI.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Login.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.MainFormUI.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.SearchViewItemsSummaryUI.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockInUI.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockOutUI.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ViewSalesBetweenTwoDatesUI.resources
+D:\New folder (3)\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+E:\ZAHID\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\ZAHID\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+E:\ZAHID\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CategoryUi.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CompanyUI.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ItemUI.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Login.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.MainFormUI.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.SearchViewItemsSummaryUI.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockInUI.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockOutUI.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ViewSalesBetweenTwoDatesUI.resources
+E:\ZAHID\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+D:\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+D:\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+D:\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CategoryUi.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.CompanyUI.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ItemUI.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.Login.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.MainFormUI.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.SearchViewItemsSummaryUI.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockInUI.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.StockOutUI.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.ViewSalesBetweenTwoDatesUI.resources
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.Cache
+E:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.UI.MainForm2.resources
